@@ -1,0 +1,100 @@
+@comment{x-kbibtex-personnameformatting=<%l><, %f>}
+
+@article{lu2011link,
+	author = "L{\"u}, Linyuan and Zhou, Tao",
+	journal = "Physica A: statistical mechanics and its applications",
+	number = "6",
+	pages = "1150--1170",
+	publisher = "Elsevier",
+	title = "{Link prediction in complex networks: A survey}",
+	volume = "390",
+	year = "2011"
+}
+
+@article{leicht2006vertex,
+	author = "Leicht, Elizabeth A and Holme, Petter and Newman, Mark EJ",
+	journal = "Physical Review E",
+	number = "2",
+	pages = "026120",
+	publisher = "APS",
+	title = "{Vertex similarity in networks}",
+	volume = "73",
+	year = "2006"
+}
+
+@article{vrandevcic2014wikidata,
+	author = "Vrande\v{c}i{\'c}, Denny and Kr{\"o}tzsch, Markus",
+	journal = "Communications of the ACM",
+	number = "10",
+	pages = "78--85",
+	publisher = "ACM",
+	title = "{Wikidata: a free collaborative knowledgebase}",
+	volume = "57",
+	year = "2014"
+}
+
+@inproceedings{jeh2002simrank,
+	author = "Jeh, Glen and Widom, Jennifer",
+	booktitle = "{Proceedings of the eighth ACM SIGKDD international conference on Knowledge discovery and data mining}",
+	organization = "ACM",
+	pages = "538--543",
+	title = "{SimRank: a measure of structural-context similarity}",
+	year = "2002"
+}
+
+@inproceedings{atnafu2001similarity,
+	author = "Atnafu, Solomon and Brunie, Lionel and Kosch, Harald",
+	booktitle = "{Database Engineering and Applications, 2001 International Symposium on.}",
+	organization = "IEEE",
+	pages = "346--355",
+	title = "{Similarity-based operators and query optimization for multimedia database systems}",
+	year = "2001"
+}
+
+@inproceedings{hulpucs2015path,
+	author = "Hulpu\c{s}, Ioana and Prangnawarat, Narumol and Hayes, Conor",
+	booktitle = "{International Semantic Web Conference}",
+	organization = "Springer",
+	pages = "442--457",
+	title = "{Path-based semantic relatedness on linked data and its use to word and entity disambiguation}",
+	year = "2015"
+}
+
+@inproceedings{balaraman2018recoin,
+	author = "Balaraman, Vevake and Razniewski, Simon and Nutt, Werner",
+	booktitle = "{Companion of the The Web Conference 2018 on The Web Conference 2018}",
+	organization = "International World Wide Web Conferences Steering Committee",
+	pages = "1787--1792",
+	title = "{Recoin: Relative Completeness in Wikidata}",
+	year = "2018"
+}
+
+@inproceedings{sinha2007unsupervised,
+	author = "Sinha, Ravi and Mihalcea, Rada",
+	booktitle = "Semantic Computing, 2007. ICSC 2007. International Conference on",
+	organization = "IEEE",
+	pages = "363--369",
+	title = "Unsupervised graph-basedword sense disambiguation using measures of word semantic similarity",
+	year = "2007"
+}
+
+@inproceedings{fogaras2005scaling,
+	author = "Fogaras, D{\'a}niel and R{\'a}cz, Bal{\'a}zs",
+	booktitle = "Proceedings of the 14th international conference on World Wide Web",
+	organization = "ACM",
+	pages = "641--650",
+	title = "Scaling link-based similarity search",
+	year = "2005"
+}
+
+@article{calado2006link,
+	author = "Calado, P{\'a}vel and Cristo, Marco and Gon\c{c}alves, Marcos Andr{\'e} and de Moura, Edleno S and Ribeiro-Neto, Berthier and Ziviani, Nivio",
+	journal = "Journal of the American Society for Information Science and Technology",
+	number = "2",
+	pages = "208--221",
+	publisher = "Wiley Online Library",
+	title = "Link-based similarity measures for the classification of Web documents",
+	volume = "57",
+	year = "2006"
+}
+

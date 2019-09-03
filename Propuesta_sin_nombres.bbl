@@ -1,0 +1,61 @@
+\begin{thebibliography}{1}
+
+\bibitem{balaraman2018recoin}
+Vevake Balaraman, Simon Razniewski, and Werner Nutt.
+\newblock {Recoin: Relative Completeness in Wikidata}.
+\newblock In {\em {Companion of the The Web Conference 2018 on The Web
+  Conference 2018}}, pages 1787--1792. International World Wide Web Conferences
+  Steering Committee, 2018.
+
+\bibitem{calado2006link}
+P{\'a}vel Calado, Marco Cristo, Marcos~Andr{\'e} Gon\c{c}alves, Edleno~S
+  de~Moura, Berthier Ribeiro-Neto, and Nivio Ziviani.
+\newblock Link-based similarity measures for the classification of web
+  documents.
+\newblock {\em Journal of the American Society for Information Science and
+  Technology}, 57(2):208--221, 2006.
+
+\bibitem{fogaras2005scaling}
+D{\'a}niel Fogaras and Bal{\'a}zs R{\'a}cz.
+\newblock Scaling link-based similarity search.
+\newblock In {\em Proceedings of the 14th international conference on World
+  Wide Web}, pages 641--650. ACM, 2005.
+
+\bibitem{hulpucs2015path}
+Ioana Hulpu\c{s}, Narumol Prangnawarat, and Conor Hayes.
+\newblock {Path-based semantic relatedness on linked data and its use to word
+  and entity disambiguation}.
+\newblock In {\em {International Semantic Web Conference}}, pages 442--457.
+  Springer, 2015.
+
+\bibitem{jeh2002simrank}
+Glen Jeh and Jennifer Widom.
+\newblock {SimRank: a measure of structural-context similarity}.
+\newblock In {\em {Proceedings of the eighth ACM SIGKDD international
+  conference on Knowledge discovery and data mining}}, pages 538--543. ACM,
+  2002.
+
+\bibitem{leicht2006vertex}
+Elizabeth~A Leicht, Petter Holme, and Mark~EJ Newman.
+\newblock {Vertex similarity in networks}.
+\newblock {\em Physical Review E}, 73(2):026120, 2006.
+
+\bibitem{lu2011link}
+Linyuan L{\"u} and Tao Zhou.
+\newblock {Link prediction in complex networks: A survey}.
+\newblock {\em Physica A: statistical mechanics and its applications},
+  390(6):1150--1170, 2011.
+
+\bibitem{sinha2007unsupervised}
+Ravi Sinha and Rada Mihalcea.
+\newblock Unsupervised graph-basedword sense disambiguation using measures of
+  word semantic similarity.
+\newblock In {\em Semantic Computing, 2007. ICSC 2007. International Conference
+  on}, pages 363--369. IEEE, 2007.
+
+\bibitem{vrandevcic2014wikidata}
+Denny Vrande\v{c}i{\'c} and Markus Kr{\"o}tzsch.
+\newblock {Wikidata: a free collaborative knowledgebase}.
+\newblock {\em Communications of the ACM}, 57(10):78--85, 2014.
+
+\end{thebibliography}
