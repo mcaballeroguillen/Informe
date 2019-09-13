@@ -1,0 +1,60 @@
+\documentclass[upright, contnum]{umemoria}
+
+%fix for the oneside argument
+\makeatletter
+\g@addto@macro\titlepage{\pagenumbering{Alph}}
+\g@addto@macro\endtitlepage{\pagenumbering{roman}}
+\makeatother
+
+\depto{{$departamento}}
+\author{{$nombre_alumno}}
+\title{{$titulo_memoria}}
+\auspicio{}
+\date{{$anno}}
+\guia{{$profesor_guia}}
+\carrera{{$carrera_titulo}}
+\memoria{{$memoria}}
+\comision{{$comision}}
+
+\usepackage{lipsum}
+
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+
+\begin{document}
+
+\frontmatter
+\maketitle
+
+\begin{abstract}
+{{$resumen}}
+\end{abstract}
+
+\begin{dedicatoria} % opcional
+Una dedicatoria corta. Por ejemplo, al \emph{Centro Tecnológico Ucampus}
+\end{dedicatoria}
+
+\begin{thanks} % opcional
+\lipsum[1-2]
+\end{thanks}
+\cleardoublepage
+
+\tableofcontents
+\listoftables % opcional
+\listoffigures % opcional
+
+\mainmatter
+
+\input{intro.tex}
+\input{cap1.tex}
+\input{cap2.tex}
+\input{conclu.tex}
+
+% \input{glosario.tex} % opcional
+
+\bibliographystyle{plain}
+\bibliography{bibliografia}
+
+% \input{anexo_apendices.tex} % opcionales
+
+\end{document}
